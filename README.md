@@ -1,2 +1,2 @@
 # LipFlap
-A/V desync tester
+Audio Video desync tester
